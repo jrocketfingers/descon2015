@@ -1,0 +1,3 @@
+**/*.pyc
+nodemcu-firmware
+nodemcu-uploader
